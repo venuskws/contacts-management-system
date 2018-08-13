@@ -1,6 +1,6 @@
 # contacts-management-system
 
-This is the term assignment of our first-semester C programming course. I uploaded this as a demonstration of what I have been able to achieve through my study program.
+This is the term assignment of our first-semester C programming course. I uploaded this as a demonstration of what I have achieved through my study program.
 A contacts management system allows for the CRUD operations on a list of contacts.
 
 a2ms4.c was provided by the professors to test our code.
