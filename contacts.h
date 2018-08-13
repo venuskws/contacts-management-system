@@ -11,9 +11,6 @@
 
 /* -------------------------------------------
 Name: Weisi Kong
-Student number: 125400176
-Email: wkong10@myseneca.ca
-Section: SMM
 Date: Dec 10, 2017
 ----------------------------------------------
 Assignment: 2
